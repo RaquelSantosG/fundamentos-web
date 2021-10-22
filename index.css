@@ -11,7 +11,7 @@
 
 .body
 {
-    background-color: indigo;
+    background-color: rgb(17, 17, 17);
 }
 
 .container {
@@ -49,12 +49,7 @@
     width: 300px;
     height: 300px;
 }
-/*
-.tm-social {
-    width: 0px; icones red social
-    height: 50px;
-}
-*/
+
 
 /*Estilos da paginas index.html*/
 
